@@ -20,7 +20,6 @@ Functionality:
   *<i>Favorite/Unfavorite Functionalityr</i>
    </br>
    *<i>Comment Systems</i>
-
   </br>
    *<i>Profile View</i>
  </br>
