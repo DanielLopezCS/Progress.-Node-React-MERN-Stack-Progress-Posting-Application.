@@ -33,7 +33,7 @@ Functionality:
   </br>
 Viewing a story:
  </br>
-![Alt text](https://github.com/DanielLopezCS/Progress.-Node-React-MERN-Stack-Progress-Posting-Application./blob/master/Progress/1.png "Story View")
+![Alt text](https://github.com/DanielLopezCS/Progress.-Node-React-MERN-Stack-Progress-Posting-Application./blob/master/Progress/2.png "Event Add")
 
 Adding an event:
 </br>
