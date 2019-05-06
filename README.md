@@ -13,7 +13,6 @@ Functionality:
  </br>
   *<i>Upload Story/Events</i>
  </br>
-  
   *<i>Upload images to stories/events using Multer</i>
   </br>
    *<i>Different Pages depending if user is owner of Stories for options to edit</i>
