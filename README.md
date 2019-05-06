@@ -7,17 +7,21 @@ Functionality:
 </br>
 <b>
  </br>
-  *<i>Account Creation</i>
+  *<i>Account/Profile Creation</i>
   </br>
   *<i>JSON Session Token Authentication with Passport.js<i> 
  </br>
   *<i>Upload Story/Events</i>
  </br>
+  
   *<i>Upload images to stories/events using Multer</i>
   </br>
    *<i>Different Pages depending if user is owner of Stories for options to edit</i>
  </br>
   *<i>Favorite/Unfavorite Functionalityr</i>
+   </br>
+   *<i>Comment Systems</i>
+
   </br>
    *<i>Profile View</i>
  </br>
